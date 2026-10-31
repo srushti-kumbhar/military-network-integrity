@@ -1,0 +1,6 @@
+src_ip,threat,severity,details
+192.168.1.77,Port Scan-like Activity,HIGH,25 unique destination ports detected
+192.168.1.77,Repeated TCP Connection Attempts,HIGH,25 TCP packets detected
+192.168.1.77,Unusually High Packet Rate,MEDIUM,10.42 packets per second
+192.168.1.99,Repeated TCP Connection Attempts,HIGH,30 TCP packets detected
+192.168.1.99,Unusually High Packet Rate,MEDIUM,10.34 packets per second
